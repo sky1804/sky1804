@@ -23,7 +23,7 @@
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats-eight-tan-95.vercel.app/api?username=sky1804&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="150em" src="https://github-readme-stats-eight-tan-95.vercel.app/top-langs/?username=sky1804&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats-eight-tan-95.vercel.app/api/top-langs/?username=sky1804&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---

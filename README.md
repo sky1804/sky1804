@@ -57,42 +57,55 @@ Integration with travel and airline-related systems for data registration and re
 🛠️ Tech Stack
 ---
 
-Backend
+### Backend
 
-TypeScript JavaScript Node.js AdonisJS C# Java / Spring Boot
+TypeScript/JavaScript 
+Node.js AdonisJS 
+C# 
+Java / Spring Boot
 
-Frontend
+### Frontend
 
-React Vite HTML CSS
+React Vite 
+HTML CSS
 
-Databases & Data
+### Databases & Data
 
-PostgreSQL SQL Server Redis
+PostgreSQL 
+SQL Server 
+Redis
 
-Infrastructure & DevOps
+### Infrastructure & DevOps
 
-Docker Nginx GitLab CI/CD Kubernetes Helm Linux
+Docker 
+Nginx 
+GitLab CI/CD 
+Kubernetes Helm 
+Linux
 
-APIs & Integration
+### APIs & Integration
 
-REST APIs OAuth 2.0 OIDC Keycloak RabbitMQ
+REST APIs 
+OAuth 2.0 OIDC 
+Keycloak 
+RabbitMQ
 
 🚀 Featured Projects
 ---
 
-Integration Service
+### Integration Service
 
 Backend application focused on consuming external APIs, normalizing data and persisting integration results.
 
 Highlights: TypeScript, AdonisJS, PostgreSQL, background jobs, retries, idempotency and Docker.
 
-Logistics Monitoring Platform
+### Logistics Monitoring Platform
 
 Application designed around logistics and transportation data, including trips, vehicles, events and operational metrics.
 
 Highlights: AdonisJS, React, PostgreSQL, Redis and external API integrations.
 
-Data Reconciliation Service
+### Data Reconciliation Service
 
 Service responsible for comparing data from multiple sources, identifying inconsistencies and maintaining an audit history.
 
